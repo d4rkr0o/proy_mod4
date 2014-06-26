@@ -1,4 +1,5 @@
-proy_mod4
-=========
+Proyecto modulo 4
 
-Proyecto de modulo 4 PBSCG8
+
+Marcelo Barrera
+Rodrigo Ortiz
